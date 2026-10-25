@@ -1,0 +1,1 @@
+Optional: Add original or properly licensed transparent PNG character assets here if you extend create_video.py to use them. The included MVP draws simple vector characters directly in Python and does not require image files.
